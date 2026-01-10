@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "かくしん的☆めたまるふぉ～ぜっ!",
+  "base_artist": "土間うまる(CV:田中あいみ)",
+  "createdAt": "2026-01-10T02:29:52.475675Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "かくしん的☆めたまるふぉ〜ぜっ!",
+      "artist": "土間うまる(CV:田中あいみ)",
+      "has_synced": true,
+      "path": "select/01_かくしん的☆めたまるふぉ〜ぜっ!_土間うまる(CV_田中あいみ).lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "かくしん的☆めたまるふぉ～ぜっ!",
+      "artist": "田中あいみ",
+      "has_synced": true,
+      "path": "select/02_かくしん的☆めたまるふぉ~ぜっ!_田中あいみ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "かくしん的☆めたまるふぉ～ぜっ!",
+      "artist": "土間うまる(CV:田中あいみ)",
+      "has_synced": true,
+      "path": "select/03_かくしん的☆めたまるふぉ~ぜっ!_土間うまる(CV_田中あいみ).lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "かくしん的☆めたまるふぉ〜ぜっ!",
+      "artist": "土間うまる(CV:田中あいみ)",
+      "has_synced": true,
+      "path": "select/04_かくしん的☆めたまるふぉ〜ぜっ!_土間うまる(CV_田中あいみ).lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "かくしん的☆めたまるふぉ～ぜっ!",
+      "artist": "田中あいみ",
+      "has_synced": true,
+      "path": "select/05_かくしん的☆めたまるふぉ~ぜっ!_田中あいみ.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "かくしん的☆めたまるふぉ〜ぜっ! - TV size ver.",
+      "artist": "土間うまる(CV:田中あいみ)",
+      "has_synced": false,
+      "path": "select/06_かくしん的☆めたまるふぉ〜ぜっ!_-_TV_size_ver._土間うまる(CV_田中あいみ).txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "かくしん的☆めたまるふぉ～ぜっ![GAME Ver.]",
+      "artist": "三澤康広",
+      "has_synced": false,
+      "path": "select/07_かくしん的☆めたまるふぉ~ぜっ![GAME_Ver.]_三澤康広.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "かくしん的☆めたまるふぉ～ぜっ！",
+      "artist": "土間うまる(CV.田中あいみ)",
+      "has_synced": true,
+      "path": "select/08_かくしん的☆めたまるふぉ~ぜっ!_土間うまる(CV.田中あいみ).lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "かくしん的☆めたまるふぉ〜ぜっ!",
+      "artist": "Various",
+      "has_synced": false,
+      "path": "select/09_かくしん的☆めたまるふぉ〜ぜっ!_Various.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "かくしん的☆めたまるふぉ～ぜっ！",
+      "artist": "田中あいみ",
+      "has_synced": true,
+      "path": "select/10_かくしん的☆めたまるふぉ~ぜっ!_田中あいみ.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "かくしん的☆めたまるふぉ〜ぜっ! -TV size ver.-",
+      "artist": "田中あいみ",
+      "has_synced": false,
+      "path": "select/11_かくしん的☆めたまるふぉ〜ぜっ!_-TV_size_ver.-_田中あいみ.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "かくしん的☆めたまるふぉ～ぜっ!",
+      "artist": "土間うまる(田中あいみ)",
+      "has_synced": false,
+      "path": "select/pl_01_かくしん的☆めたまるふぉ~ぜっ!_土間うまる(田中あいみ).txt"
+    }
+  ]
+}
